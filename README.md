@@ -1,2 +1,2 @@
 # Quizbee
-A Quiz application 
+A  basic Quiz application
